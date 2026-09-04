@@ -1,14 +1,14 @@
 {
-  "group_members": "kityapar",
+  "group_members": "kityapar ,Thunyapron",
   "section": 2,
   "group": 4,
   "fork_url": "https://github.com/pp222-iuryy/lab4-megalopa.git",
   "github_username_for_push": "pp222-iuryy",
   "model_pt": "student_work/models/sec02_group04_megalopa_yolo26n_best.pt",
   "model_onnx": "student_work/models/sec02_group04_megalopa_yolo26n_best.onnx",
-  "Precision": 0.771404896279609,
-  "Recall": 0.2564102564102564,
-  "mAP@50": 0.2791357666600586,
-  "mAP@50-95": 0.1483245641804439,
-  "Training time (seconds)": 108.19062438999998
+  "Precision": 0.7935039906334536,
+  "Recall": 0.28717948717948716,
+  "mAP@50": 0.3093024900382387,
+  "mAP@50-95": 0.16849162124310763,
+  "Training time (seconds)": 131.68505864300005
 }
